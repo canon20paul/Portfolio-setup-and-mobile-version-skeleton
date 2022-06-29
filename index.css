@@ -35,4 +35,19 @@ body{
     height:600px;
   }
   
+  .ball{
+    width:150%;
+    height: 200%;
+    align-self: center;
+    border-radius: 50%; 
+    background-image: radial-gradient(rgba(255,255,255,1),rgba(255,0,0,0) , rgba(255,0,0,0));
+  }
+  
+  .Lball{
+    margin-top: 0%;
+  }
+  
+  .Rball{
+    margin-top: 100%;
+  }
  
