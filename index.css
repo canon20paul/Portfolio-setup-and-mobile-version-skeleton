@@ -1,0 +1,61 @@
+ Framing-IndexPage
+body{
+  background-color: blue;
+
+  
+}
+body{
+    background-color: blue;
+  
+  
+  }
+  .flame{
+      border:  #fff solid 
+  }
+  
+  .container{
+    width: 100%;
+    display: flex;
+    flex-flow: column nonwrap;
+  }
+  
+  
+  .Lcont{
+      width:20%;
+      height:600px;
+      display: flex;
+      flex-direction: column;
+      
+  }
+  
+  .Rcont{
+      width:20%;
+      height:600px;
+      display: flex;
+      flex-direction: column;
+  }
+  
+  .main{
+    width:60%;
+    height:600px;
+  }
+  
+  .ball{
+    width:70%;
+    height: 70px;
+    align-self: center;
+    border-radius: 50%;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,255,255,1))
+    
+    
+  }
+  
+  .Lball{
+    margin-top: 20%;
+  }
+  
+  .Rball{
+    margin-top: 300%;
+  }
+=======
+ Feature
